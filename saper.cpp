@@ -4,9 +4,8 @@
 
 int main()
 {
-	GraWybierz g;
-	std::cout << "Start gry!" << std::endl;
-	//GraWpisz g;
+	//GraWybierz g;
+	GraWpisz g;
 
 	g.play();
 
